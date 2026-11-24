@@ -1,7 +1,3 @@
-#Implicit wait  -
-#Explicit Wait
-import time
-
 from selenium import webdriver
 #pause the test for few seconds using Time class
 driver = webdriver.Chrome(executable_path="C:\\chromedriver.exe")
